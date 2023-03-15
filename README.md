@@ -7,7 +7,7 @@ Project roadmap/steps/guide etc.
 # Get Started with Trusted Location
 # ERC20 Token on IoTeX
 # Deploy a MachineFi User App
-click&earn workshop
+        click&earn workshop
 link for ref ("https://youtu.be/TSXUHIMtrO8")
 # Build a full protocol on a Trusted Location
 # Walk to Earn User App
