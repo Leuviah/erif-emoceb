@@ -1,6 +1,17 @@
 # erif-emoceb
     Reference: ("https://docs.iotex.io/")
-# Build a protocol on a Trusted Location
+    
+Project roadmap/steps/guide etc.
+# How to run a IoTeX Full Node
+        Deploy
+# Get Started with Trusted Location
+# ERC20 Token on IoTeX
+# Deploy a MachineFi User App
+click&earn workshop
+link for ref ("https://youtu.be/TSXUHIMtrO8")
+# Build a full protocol on a Trusted Location
+# Walk to Earn User App
+
 Injecting trusted location data into dApps opens the door to several new types of applications.
 The dapp we're going to build allows users to create location-based Airdrops,
 that can be unlocked only by those devices that were within the specified location area of the Airdrop
@@ -22,8 +33,8 @@ during the time range determined by the Airdrop's creator.
       An off-chain computing infrastructure serving as an open, chain-agnostic
       and decentralized protocol sitting in between blockchain and devices to convert
       real-world data streams from devices into verifiable, dApp-ready proofs.
-      
-      .
+      *
+      Address Format Converter.
       truffle-fund=A+
       
       
